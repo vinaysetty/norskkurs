@@ -1,1 +1,1 @@
-# norskkurs
+# Norskkurs ved UiS IDE
