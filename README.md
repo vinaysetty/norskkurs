@@ -9,7 +9,7 @@
 ## Utrykker
 	- å finne tonen
 	- å være nett
-## Ny odene
+## Ny ordene
 	- fornærme - offend - såre noen med ordene
 	- såre - hurt - hun sårer meg med sin evigvarende kritikk
 	- hensyn - consideration and respect
