@@ -9,7 +9,7 @@
 	- Når foreldre skiller seg, det kan rive familien i stykker
 	- Martin Luther Kings arv ser vi i dag også - arven etter kongen
 	- Jeg er stolt av arven min
-	- 
+	- Å ta anvar for barna
 	
 ## Utrykker
 	- Å rive i stykker - to tear it into pieces, rip it apart
@@ -19,6 +19,7 @@
 	- Stesøsken steps sister
 	- arv - heritage, genetic legacy.. 
 	- Partnerskap - partnership
+	
 	
 # 12.10.2020
 
