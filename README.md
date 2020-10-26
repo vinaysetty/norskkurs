@@ -3,6 +3,7 @@
 # 26.10.2020
 ## Setninger
 	- Samlivsbrudd kan være vanskelig eller brutalt for samboer
+	- Alle barna må ha foresatt
 ## Ny ordene
 	- Samlivsbrudd - samboer some separarer seg / å bryte en avtale for samboeer 
 	- Foresatt - de som har ansvar for barn eller foreldrene
