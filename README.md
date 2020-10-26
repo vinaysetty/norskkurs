@@ -11,6 +11,7 @@
 	- Jeg er stolt av arven min
 	- Å ta ansvar for barna
 	- Jeg var nektiske for å spise forskjellige mat
+	- Det er veldig stas at bestemor leser for han
 	
 	
 ## Utrykker
@@ -22,6 +23,7 @@
 	- arv - heritage, genetic legacy.. 
 	- Partnerskap - partnership
 	- å Nekte - refuse 
+	- Stas - best preferred
 	
 	
 # 12.10.2020
