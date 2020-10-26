@@ -24,6 +24,8 @@
 	- Partnerskap - partnership
 	- å Nekte - refuse 
 	- Stas - best preferred
+	- samvittighet concerned
+	- snekre - beste faren sin
 	
 	
 # 12.10.2020
