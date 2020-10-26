@@ -10,6 +10,7 @@
 	- Martin Luther Kings arv ser vi i dag også - arven etter kongen
 	- Jeg er stolt av arven min
 	- Å ta ansvar for barna
+	- Jeg var nektiske for å spise forskjellige mat
 	
 	
 ## Utrykker
@@ -20,6 +21,7 @@
 	- Stesøsken steps sister
 	- arv - heritage, genetic legacy.. 
 	- Partnerskap - partnership
+	- å Nekte - refuse 
 	
 	
 # 12.10.2020
