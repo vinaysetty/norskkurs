@@ -25,7 +25,9 @@
 	- å Nekte - refuse 
 	- Stas - best preferred
 	- samvittighet concerned
-	- snekre - beste faren sin
+	- snekre - carpenter
+	- Betryggene - føle seg trygg
+	- Beroligene - nervøs 
 	
 	
 # 12.10.2020
