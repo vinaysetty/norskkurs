@@ -1,5 +1,12 @@
 # Norskkurs ved UiS IDE
 
+# 26.10.2020
+## Setninger
+	- Samlivsbrudd kan være vanskelig eller brutalt for samboer
+## Ny ordene
+	- Samlivsbrudd - samboer some separarer seg / å bryte en avtale for samboeer 
+	- 
+	
 # 12.10.2020
 
 ## Setninger
