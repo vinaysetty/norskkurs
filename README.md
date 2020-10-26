@@ -28,6 +28,8 @@
 	- snekre - carpenter
 	- Betryggene - føle seg trygg
 	- Beroligene - nervøs 
+	- Dessuten - furthermore
+	- 
 	
 	
 # 12.10.2020
