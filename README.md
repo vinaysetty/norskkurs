@@ -7,13 +7,16 @@
 	- Barn eller person som har felles mor eller far
 	- Vi blir på kurset på godt og vondt
 	- Når foreldre skiller seg, det kan rive familien i stykker
+	- Martin Luther Kings arv ser vi i dag også - arven etter kongen
+	- Jeg er stolt av arven min
+	
 ## Utrykker
 	- Å rive i stykker - to tear it into pieces, rip it apart
 ## Ny ordene
 	- Samlivsbrudd - samboer some separarer seg / å bryte en avtale for samboeer 
 	- Foresatt - de som har ansvar for barn eller foreldrene
 	- Stesøsken steps sister
-	- arv - heritage
+	- arv - heritage, genetic legacy.. 
 	
 # 12.10.2020
 
