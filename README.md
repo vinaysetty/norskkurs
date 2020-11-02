@@ -4,7 +4,10 @@
 ## Ordene
 	- heldigvis - luckily
 	- skuffende - disappointing
-	- 
+	- tomannsbolig - two floor house
+	- sokkeleighet - basement apartment
+	- kjellerleilighet - basement apartment
+	- terasseblokk
 # 26.10.2020
 ## Setninger
 	- Samlivsbrudd kan være vanskelig eller brutalt for samboer
@@ -17,6 +20,7 @@
 	- Å ta ansvar for barna
 	- Jeg var nektiske for å spise forskjellige mat
 	- Det er veldig stas at bestemor leser for han
+
 	
 	
 ## Utrykker
