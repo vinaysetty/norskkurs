@@ -6,6 +6,8 @@
 	- sammensatte abstract vs løst sammensatt
 		- å tilstå - to confess er forskjell fra å stå til
 		- å oppdra - to raise children - å dra opp - fish
+	- å skrive under vs å underskrive
+	- 
 		
 ## Ordene
 	- heldigvis - luckily
