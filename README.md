@@ -1,6 +1,13 @@
 # Norskkurs ved UiS IDE
 
 # 02.10.2020
+## Grammatikk
+	- sammensatte verb
+		- å tilstå - to confess er forskjell fra å stå til
+	- Hvordan står det til?
+		- å stå til
+		- å se ut
+		- løst sammensatt
 ## Ordene
 	- heldigvis - luckily
 	- skuffende - disappointing
@@ -11,6 +18,7 @@
 	- skummelt - worried
 	- landsby - viliage
 	- farlig - dangerous
+	- sammensatt - compound verb
 # 26.10.2020
 ## Setninger
 	- Samlivsbrudd kan være vanskelig eller brutalt for samboer
