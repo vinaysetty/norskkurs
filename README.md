@@ -9,7 +9,8 @@
 	- kjellerleilighet - basement apartment
 	- terasseblokk
 	- skummelt - worried
-	- landsby
+	- landsby - viliage
+	- farlig - dangerous
 # 26.10.2020
 ## Setninger
 	- Samlivsbrudd kan være vanskelig eller brutalt for samboer
