@@ -8,6 +8,7 @@
 	- sokkeleighet - basement apartment
 	- kjellerleilighet - basement apartment
 	- terasseblokk
+	- skummelt - worried
 # 26.10.2020
 ## Setninger
 	- Samlivsbrudd kan være vanskelig eller brutalt for samboer
