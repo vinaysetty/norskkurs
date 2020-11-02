@@ -1,5 +1,10 @@
 # Norskkurs ved UiS IDE
 
+# 02.10.2020
+## Ordene
+	- heldigvis - luckily
+	- skuffende - disappointing
+	- 
 # 26.10.2020
 ## Setninger
 	- Samlivsbrudd kan være vanskelig eller brutalt for samboer
