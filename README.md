@@ -3,11 +3,14 @@
 # 02.10.2020
 ## Grammatikk
 	- Hvordan står det til?
-	- sammensatte abstract vs løst sammensatt
+	- sammensatte abstract vs løst sammensatt foksellige betydning
 		- å tilstå - to confess er forskjell fra å stå til
 		- å oppdra - to raise children - å dra opp - fish
-	- å skrive under vs å underskrive
-	- 
+	- samme betydning uformelt vs formelt
+		- å skrive under vs å underskrive
+		- å ta del i vs å delta 
+	- slå av en liten prat er foskellig fra slå av
+		- å avslå
 		
 ## Ordene
 	- heldigvis - luckily
