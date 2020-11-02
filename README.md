@@ -11,6 +11,7 @@
 		- å ta del i vs å delta 
 	- slå av en liten prat er foskellig fra slå av
 		- å avslå
+	- å føre over vs å overføre
 		
 ## Ordene
 	- heldigvis - luckily
