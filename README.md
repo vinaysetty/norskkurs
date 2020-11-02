@@ -2,12 +2,11 @@
 
 # 02.10.2020
 ## Grammatikk
-	- sammensatte verb
-		- å tilstå - to confess er forskjell fra å stå til
 	- Hvordan står det til?
-		- å stå til
-		- å se ut
-		- løst sammensatt
+	- sammensatte abstract vs løst sammensatt
+		- å tilstå - to confess er forskjell fra å stå til
+		- å oppdra - to raise children - å dra opp - fish
+		
 ## Ordene
 	- heldigvis - luckily
 	- skuffende - disappointing
