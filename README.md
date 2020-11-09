@@ -2,6 +2,13 @@
 
 # 09.11.2020
 
+## Grammatik
+	- modale adverb
+		- adverbene kan fortelle vordan man forholder seg til innholdet i setnigen
+		- De skal *dessverre eller heldigivis* flytte
+		- Jeg vil *heller* gå
+		- Du dan *gjerne* bli her
+		- Det er *faktisk* sant
 ## Utrykker
 	- Maskineriet kan knrike faretruende -  mechansim (family) or machine can squeak dangerously 
 	- Faretruende skier - dark clouds
