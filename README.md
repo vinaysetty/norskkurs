@@ -1,6 +1,23 @@
 # Norskkurs ved UiS IDE
 
-# 02.10.2020
+# 09.11.2020
+
+## Utrykker
+	- Maskineriet kan knrike faretruende -  mechansim (family) or machine can squeak dangerously 
+	- Faretruende skier - dark clouds
+## Ny ordene
+	- nikker - nodding
+	- påtvungen - forced 
+	- tvinge - force
+	- maskineriet
+	- knirke - squeak
+	- fareturende - dangerous
+	- plutselig - 
+	- skredderykk
+	- utfordringene
+	- verken
+	- 
+# 02.11.2020
 ## Grammatikk
 	- Hvordan står det til?
 	- sammensatte abstract vs løst sammensatt foksellige betydning
