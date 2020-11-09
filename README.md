@@ -9,6 +9,8 @@
 		- Jeg vil *heller* gå
 		- Du dan *gjerne* bli her
 		- Det er *faktisk* sant
+	- Jo og da og andre adverb kan brukes til å få fram talerens følelse
+	
 ## Utrykker
 	- Maskineriet kan knrike faretruende -  mechansim (family) or machine can squeak dangerously 
 	- Faretruende skier - dark clouds
