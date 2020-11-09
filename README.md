@@ -55,6 +55,7 @@
 	- vel -
 	- neppe - tror ikke
 	- sikkert ikke
+	- Appellerende - positive or affirmitive or optimistic appealing
 # 02.11.2020
 ## Grammatikk
 	- Hvordan står det til?
