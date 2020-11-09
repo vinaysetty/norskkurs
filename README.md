@@ -10,6 +10,21 @@
 		- Du dan *gjerne* bli her
 		- Det er *faktisk* sant
 	- Jo og da og andre adverb kan brukes til å få fram talerens følelse
+	- Jo og da og andre adverb kan brukes til å få
+		- fram talerens følelse. Betydningen kan variere
+		- etter tonefall og andre ord i setningen.
+
+		- Skal du ikke betale? Jeg har jo betalt! (Irritasjon, du burde vite det.)
+
+		- Du klarte det jo! (Glede overraskelse)
+
+		- Du kunne jo ha ventet! (bebreidende)
+
+		- Hun skal jo begynne i femte klasse. (som du vet)
+
+		- Det er vel ikke sant! (Appellerende, man håper på nei til svar)
+
+		- Det er vel sant! (Appellerende, man håper på ja til svar)
 	
 ## Utrykker
 	- Maskineriet kan knrike faretruende -  mechansim (family) or machine can squeak dangerously 
