@@ -7,6 +7,8 @@
 	- Faretruende skier - dark clouds
 	- Var med å notene - get along well
 	- Å skreddersy - a verb - tailored the house - å tilpasse
+	- å undre seg - I wonder 
+	- hun kommer nok tilbake senere - she will probably come back later
 ## Ny ordene
 	- nikker - nodding
 	- påtvungen - forced 
@@ -21,6 +23,14 @@
 	- verken - neigther
 	- sy - sew
 	- tilpasse - adapt customize
+	- merkelig - strange
+	- kilde - source
+	- antagelig - perhaps
+	- muligens - 
+	- viss - 
+	- vel -
+	- neppe - tror ikke
+	- sikkert ikke
 # 02.11.2020
 ## Grammatikk
 	- Hvordan står det til?
