@@ -6,7 +6,7 @@
 	- Maskineriet kan knrike faretruende -  mechansim (family) or machine can squeak dangerously 
 	- Faretruende skier - dark clouds
 	- Var med å notene - get along well
-	- Å skreddersy - a verb - tailored the house 
+	- Å skreddersy - a verb - tailored the house - å tilpasse
 ## Ny ordene
 	- nikker - nodding
 	- påtvungen - forced 
@@ -15,10 +15,12 @@
 	- knirke - squeak
 	- fareturende - dangerous
 	- plutselig - sudden
-	- skredderykk - 
-	- utfordringene
-	- verken
+	- skredderydd - tailored  or cutomized
+	- skrydder - tailor
+	- utfordringene - challenges
+	- verken - neigther
 	- sy - sew
+	- tilpasse - adapt customize
 # 02.11.2020
 ## Grammatikk
 	- Hvordan står det til?
