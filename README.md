@@ -4,7 +4,11 @@
 	## Utrykker
 		- trakte etter - søke etter, to long for ..
 		- bare i vilje til felleskap fungerer menneskelivet etter sine bestemmelser. only in the will of community does human life function according to its provisions.
+		- å bry seg om - to care about
+		- å ta i bruk - 
+		- påvirke
 	## ordene
+		- plutselig -  suddenly
 # 09.11.2020
 
 ## Grammatik
