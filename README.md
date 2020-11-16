@@ -1,5 +1,10 @@
 # Norskkurs ved UiS IDE
 
+# 16.11.2020
+	## Utrykker
+		- trakte etter - søke etter, to long for ..
+		- bare i vilje til felleskap fungerer menneskelivet etter sine bestemmelser. only in the will of community does human life function according to its provisions.
+	## ordene
 # 09.11.2020
 
 ## Grammatik
