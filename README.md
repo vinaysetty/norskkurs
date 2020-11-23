@@ -1,5 +1,11 @@
 # Norskkurs ved UiS IDE
 
+# 24.11.2020
+	## vokabular
+		- Yter provide
+		- omfattende comprehensive
+		- 
+	
 # 16.11.2020
 	## Utrykker
 		- trakte etter - søke etter, to long for ..
