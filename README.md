@@ -5,7 +5,11 @@
 		- klimaendringer
 		- forurensing
 		- grønt gress
-		- utslipp CO2
+		- utslipp CO2 = emission
+		- klimabrøl = climate roar
+		- klimafotabtrkk
+		- korona-effekt 
+		- matsvinn
 # 24.11.2020
 	## vokabular
 		- Yter provide
