@@ -1,5 +1,11 @@
 # Norskkurs ved UiS IDE
 
+# 22.09.2021
+        ## Stykkordene
+		- klimaendringer
+		- forurensing
+		- grønt gress
+		- utslipp CO2
 # 24.11.2020
 	## vokabular
 		- Yter provide
