@@ -10,6 +10,7 @@
 		- klimafotabtrkk
 		- korona-effekt 
 		- matsvinn
+		- påvirkning - effect
 # 24.11.2020
 	## vokabular
 		- Yter provide
